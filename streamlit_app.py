@@ -9,7 +9,7 @@ st.set_page_config(page_title="Wellness Sales Forecasting", layout="wide")
 
 # Title
 # st.title("🧠 Wellness Sales Forecasting App")
-st.title("🧠 Wellness Sales Forecasting Dashboard (Updated 🚀)")
+st.title("🧠 Wellness Sales Forecasting Dashboard (Updated_1 🚀)")
 
 # Load data to get dropdown options
 DATA_PATH = Path(__file__).resolve().parent / "data" / "wellness_sales_data.csv"
